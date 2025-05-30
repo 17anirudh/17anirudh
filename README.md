@@ -4,7 +4,7 @@
 
 # VEDALA ANIRUDH
 
-Welcome to my GitLab signature repository. I'm a Computer Science Engineering student who likes software development, machine learning, and solving real-world problems through innovative tech solutions.
+I'm a Computer Science Engineering student who likes software development, machine learning, and solving real-world problems through innovative tech solutions.
 
 ## 🔧 Projects
 
