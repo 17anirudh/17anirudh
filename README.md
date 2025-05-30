@@ -1,7 +1,3 @@
-# anirudh17
-
-
-
 # VEDALA ANIRUDH
 
 I'm a Computer Science Engineering student who likes software development, machine learning, and solving real-world problems through innovative tech solutions.
