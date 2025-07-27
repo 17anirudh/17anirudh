@@ -4,6 +4,12 @@ I'm a Computer Science Engineering student who likes software development, machi
 
 ## 🔧 Projects
 
+### 🌐 URL Shortner
+A Cloud-native full Stack application which shortens any working website link, into a short link
+- **Tech Stack**: SSFV Stack (MySQL, Spring-boot, Flask, Vanilla JS)
+- **Features**: Link shortnening and Link redirection
+- **Repo**: [URL Shortner]([https://github.com/17anirudh/pWeather.git](https://github.com/17anirudh/Shrink.io.git))
+
 ### 📡 pWeather
 A command-line Python tool that fetches and displays real-time weather data using the OpenWeather API.
 - **Tech Stack**: Python, Requests, JSON, OpenWeather API
