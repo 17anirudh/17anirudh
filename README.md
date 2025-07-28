@@ -16,11 +16,11 @@ A Cloud-native full Stack application which shortens any working website link, i
 - **Features**: Link shortnening and Link redirection
 - **Repo**: [URL Shortner](https://github.com/17anirudh/Shrink.io.git)
 
-### 📡 pWeather
+### 📡 Weather API
 A command-line Python tool that fetches and displays real-time weather data using the OpenWeather API.
 - **Tech Stack**: Python, Requests, JSON, OpenWeather API
 - **Features**: Temperature, humidity, visibility, and more by location
-- **Repo**: [pWeather](https://github.com/17anirudh/pWeather.git)
+- **Repo**: [Weather API](https://github.com/17anirudh/pWeather.git)
 
 ### 📝 JTextEditor
 A Java-based GUI text editor with basic editing features.
