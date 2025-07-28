@@ -4,6 +4,12 @@ I'm a Computer Science Engineering student who likes software development, machi
 
 ## 🔧 Projects
 
+### 📄 ATS Score
+Offline, private, and powerful Resume Analyzer using a local LLM.
+- **Tech Stack**: Ollama, Flask, PyPDF2, python-docx, HTML, CSS
+- **Features**: Secure, Offline, Minimal Web Interface
+- **Repo**: [ATS Score](https://github.com/17anirudh/ATS-Score.git)
+
 ### 🌐 URL Shortner
 A Cloud-native full Stack application which shortens any working website link, into a short link
 - **Tech Stack**: SSFV Stack (MySQL, Spring-boot, Flask, Vanilla JS)
@@ -42,12 +48,13 @@ A Flask-based Vue application that finds 10yrs+ experience working professions b
 - **Foundations of Cybersecurity** – Google
 - **Active Listening Skills for Students** - TCS iON
 
-## 💼 Virtual Internships and Training Programs
+## 💼 Virtual Internships, Training Programs and Certifications
 
 - **J.P. Morgan Software Engineering** – Real-time data visualization dashboard using Perspective library
 - **Walmart Software Engineering** – Heap structure optimization, UML design for data processors
 - **AICTE Python Full Stack Development** (May 2025 - Ongoing)- Training focused on-site internships focuses on Full Stack Development using Python
 - **Viswam.ai** (May 2025 - Ongoing) - Virtual Internship contributing for building Telugu LLM
+- **Artificial Intelligence Primer Certification** - Infosys Springboard
 
 
 ## 🏅 Hackathons
