@@ -79,6 +79,6 @@ I'm a **[Your Role/Title]** passionate about **[your interests/focus areas]**. I
 ---
 
 <div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=17anirudh&color=blueviolet&style=flat-square)
 
 </div>
