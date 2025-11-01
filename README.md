@@ -1,6 +1,4 @@
-# VEDALA ANIRUDH
-
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Vedala Anirudh 👋
 
 ## 👨‍💻 About Me
 
@@ -64,11 +62,11 @@ I'm a **[Your Role/Title]** passionate about **[your interests/focus areas]**. I
 
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=17anirudh&show_icons=true&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17anirudh&theme=radical&hide_border=true)
 
 </div>
 
