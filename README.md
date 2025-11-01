@@ -67,7 +67,6 @@ I'm a **[Your Role/Title]** passionate about **[your interests/focus areas]**. I
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17anirudh&theme=radical&hide_border=true)
-
 </div>
 
 ## 🤝 Connect with Me
@@ -76,9 +75,8 @@ I'm a **[Your Role/Title]** passionate about **[your interests/focus areas]**. I
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://portfolio-next-five-ruby.vercel.app/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vedalaanirudh@gmail.com)
 
----
-
 <div align="center">
+
 ![Profile Views](https://komarev.com/ghpvc/?username=17anirudh&color=blueviolet&style=flat-square)
 
 </div>
