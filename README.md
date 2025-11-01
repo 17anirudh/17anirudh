@@ -60,13 +60,14 @@ I'm a **[Your Role/Title]** passionate about **[your interests/focus areas]**. I
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div>
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=17anirudh&show_icons=true&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17anirudh&theme=radical&hide_border=true)
+
 </div>
 
 ## 🤝 Connect with Me
