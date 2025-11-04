@@ -55,7 +55,7 @@ I'm a **senior CS undergrad** passionate about **Data Science, Computer Vision a
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=17anirudh&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=17anirudh&theme=great-gatsby)](https://git.io/streak-stats)
 
 </div>
 
