@@ -31,12 +31,11 @@ I'm a **senior CS undergrad** passionate about **Data Science, Computer Vision a
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-## 🚀 Featured Repositories
+## 🚀 Repositories
 
-### [Project Name 1](https://github.com/yourusername/project-1)
-**Description:** Brief description of what this project does and why it's interesting.  
-**Tech:** `Python` `React` `PostgreSQL`  
-⭐ Stars | 🍴 Forks
+### [DeepFake Detection](https://github.com/17anirudh/deepfake-detection)
+**Description:** Advanced web application designed to combat the spread of misinformation by detecting Deepfakes in images and videos, and verifying the authenticity of text-based news articles.  
+**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![pytorch](https://img.shields.io/badge/pytorch-black?logo=pytorch) ![langchain](https://img.shields.io/badge/langchain-black?logo=langchain)
 
 ### [Project Name 2](https://github.com/yourusername/project-2)
 **Description:** Brief description of what this project does and why it's interesting.  
