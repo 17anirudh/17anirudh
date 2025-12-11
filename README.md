@@ -34,18 +34,22 @@ I'm a **senior CS undergrad** passionate about **Data Science, Computer Vision a
 
 ### [Hash Bytes](https://github.com/17anirudh/hash-bytes)
 **Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![fastapi](https://img.shields.io/badge/fastapi-black?logo=fastapi) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-black?logo=sqlalchemy)
+
 **Description:** Educational tool to quickly encrypt and decrypt any content using different cryptographic algorithms and relevant cipher modes along with explanations.
 
 ### [NIDS](https://github.com/17anirudh/NIDS)
 **Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas) ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-black?logo=scikitlearn) ![flask](https://img.shields.io/badge/flask-black?logo=flask)
+
 **Description:** Educational tool to quickly encrypt and decrypt any content using different cryptographic algorithms and relevant cipher modes along with explanations.
 
 ### [ATS Score](https://github.com/17anirudh/ATS-Score)
 **Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas) ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-black?logo=scikitlearn) ![flask](https://img.shields.io/badge/flask-black?logo=flask) ![Ollama](https://img.shields.io/badge/ollama-black?logo=ollama) ![Gemma](https://img.shields.io/badge/gemma3n:e2b-black?logo=googlegemini)
+
 **Description:** antardvara.ssl is a local and secure ATS analyzer, which takes in job description, qualification and your resume sends it to internal local gemma3n:e2b based custom model (NorthEye), which analyzes and gives you the result
 
 ### [URL Shortner](https://github.com/17anirudh/URL-Shortner)
 **Tech:** ![java](https://img.shields.io/badge/java-black?logo=openjdk) ![Python](https://img.shields.io/badge/python-black?logo=python) ![HTML5](https://img.shields.io/badge/HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css) ![Springboot](https://img.shields.io/badge/springboot-black?logo=springboot) ![flask](https://img.shields.io/badge/flask-black?logo=flask) ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql) ![docker](https://img.shields.io/badge/docker-black?logo=docker)
+
 **Description:** Cloud-native full Stack application which shortens any working website link, into a short link
 
 ## 📊 GitHub Stats
