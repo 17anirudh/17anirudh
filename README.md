@@ -13,7 +13,7 @@ I'm a **senior CS undergrad** passionate about **Data Science, Computer Vision a
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/astro.svg?logo=astro)
+![Astro](https://img.shields.io/badge/astro-black?logo=astro)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -34,18 +34,24 @@ I'm a **senior CS undergrad** passionate about **Data Science, Computer Vision a
 ## 🚀 Repositories
 
 ### [DeepFake Detection](https://github.com/17anirudh/deepfake-detection)
+**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![pytorch](https://img.shields.io/badge/pytorch-black?logo=pytorch) ![langchain](https://img.shields.io/badge/langchain-black?logo=langchain) ![fastapi](https://img.shields.io/badge/fastapi-black?logo=fastapi) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-black?logo=sqlalchemy)
 **Description:** Advanced web application designed to combat the spread of misinformation by detecting Deepfakes in images and videos, and verifying the authenticity of text-based news articles.  
-**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![pytorch](https://img.shields.io/badge/pytorch-black?logo=pytorch) ![langchain](https://img.shields.io/badge/langchain-black?logo=langchain)
 
-### [Project Name 2](https://github.com/yourusername/project-2)
-**Description:** Brief description of what this project does and why it's interesting.  
-**Tech:** `JavaScript` `Node.js` `MongoDB`  
-⭐ Stars | 🍴 Forks
+### [Hash Bytes](https://github.com/17anirudh/hash-bytes)
+**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![fastapi](https://img.shields.io/badge/fastapi-black?logo=fastapi) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-black?logo=sqlalchemy)
+**Description:** Educational tool to quickly encrypt and decrypt any content using different cryptographic algorithms and relevant cipher modes along with explanations.
 
-### [Project Name 3](https://github.com/yourusername/project-3)
-**Description:** Brief description of what this project does and why it's interesting.  
-**Tech:** `TypeScript` `Express` `Docker`  
-⭐ Stars | 🍴 Forks
+### [NIDS](https://github.com/17anirudh/NIDS)
+**Tech: ** ![Python](https://img.shields.io/badge/python-black?logo=python) ![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas) ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-black?logo=scikitlearn) ![flask](https://img.shields.io/badge/flask-black?logo=flask)
+**Description:** Educational tool to quickly encrypt and decrypt any content using different cryptographic algorithms and relevant cipher modes along with explanations.
+
+### [ATS Score](https://github.com/17anirudh/ATS-Score)
+**Tech: ** ![Python](https://img.shields.io/badge/python-black?logo=python) ![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas) ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-black?logo=scikitlearn) ![flask](https://img.shields.io/badge/flask-black?logo=flask) ![Ollama](https://img.shields.io/badge/ollama-black?logo=ollama) ![Gemma](https://img.shields.io/badge/gemma3n:e2b-black?logo=googlegemini)
+**Description:** antardvara.ssl is a local and secure ATS analyzer, which takes in job description, qualification and your resume sends it to internal local gemma3n:e2b based custom model (NorthEye), which analyzes and gives you the result
+
+### [URL Shortner](https://github.com/17anirudh/URL-Shortner)
+**Tech: ** ![java](https://img.shields.io/badge/java-black?logo=openjdk) ![Python](https://img.shields.io/badge/python-black?logo=python) ![HTML5](https://img.shields.io/badge/HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css) ![Springboot](https://img.shields.io/badge/springboot-black?logo=springboot) ![flask](https://img.shields.io/badge/flask-black?logo=flask) ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql) ![docker](https://img.shields.io/badge/docker-black?logo=docker)
+**Description:** Cloud-native full Stack application which shortens any working website link, into a short link
 
 ## 📊 GitHub Stats
 
