@@ -1,76 +1,117 @@
-# Hi there, I'm Vedala Anirudh
+# Vedala Anirudh, here!
+
+Software engineer with a strong focus on **backend development**, **database design**, and **event-driven architecture**. Recent graduate (B.Tech CSE) actively seeking full-time engineering opportunities to build scalable, performant systems.
+
 
 ## About Me
-I'm a **senior CS undergrad** passionate about **Data Science, Computer Vision and backend architecture**. I love building things that make a difference and contributing to open source.
 
-## Tech Stack
+I'm like architecting robust backend systems, designing efficient databases, and shipping features that matter. I thrive working across the full stack with emphasis on clean code, ACID compliance, and high-performance APIs. I have explored various technologies and frameworks, but I have a particular affinity for **Spring boot, Next.js and PostgresSQL**.
+
+- **Currently:** Actively seeking full-time backend/full-stack roles
+- **Focus:** Backend APIs, event-driven architectures, database design, cloud infrastructure
+- **Education:** B.Tech CSE @ Dr Lankapalli Bullayya College of Engineering (CGPA: 8.27/10)
+- **Location:** Visakhapatnam, Andhra Pradesh, India (Open to Relocation)
+- **Internships:** Full Stack @ Grug.io | Python Full Stack @ AICTE
+
+
+## Techical Skills
+
 ### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=black)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Nextjs-black?logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-black?logo=astro)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### Backend
-![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
+- **Framework:** Spring Boot, FastAPI, Express.js, Elysia.js
+- **Messaging:** RabbitMQ, Apache Kafka
+- **Other:** JWT Authentication, WebSocket communication
+- **Databases:** PostgreSQL, SQLite, Supabase
+- **Caching & Memory:** In-memory caching (Hazelcast), Redis
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-%2307405e.svg?logo=mysql&logoColor=white)
-![cassandra](https://img.shields.io/badge/cassandra-%2307405e.svg?logo=apachecassandra&logoColor=white)
+### Frontend
+- **Framework:** Next.js, React
+- **State Management:** TanStack Query, TanStack Router
+- **Styling:** Tailwind CSS, Shadcn UI, GSAP, Base UI
 
-## Repositories
-### [DeepFake Detection](https://github.com/17anirudh/deepfake-detection)
-**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![pytorch](https://img.shields.io/badge/pytorch-black?logo=pytorch) ![langchain](https://img.shields.io/badge/langchain-black?logo=langchain) ![fastapi](https://img.shields.io/badge/fastapi-black?logo=fastapi) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-black?logo=sqlalchemy)
-**Description:** Advanced web application designed to combat the spread of misinformation by detecting Deepfakes in images and videos, and verifying the authenticity of text-based news articles.  
+### Infrastructure & Cloud
+- **Patterns:** REST APIs, MVC Pattern (Layered Architecture), Event-Driven Architecture, ACID-compliant transactions, Component-Driven Design
+- **Cloud:** AWS (Lambda, DynamoDB, ECR, EC2, ECS)
+- **Containerization:** Docker
+- **CI/CD:** GitHub Actions
+- **VCS:** Git, GitHub
 
-### [Hash Bytes](https://github.com/17anirudh/hash-bytes)
-**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![javascript](https://img.shields.io/badge/javascript-black?logo=javascript) ![bun](https://img.shields.io/badge/bun-black?logo=bun) ![nextdotjs](https://img.shields.io/badge/nextjs-black?logo=nextdotjs) ![shadcnui](https://img.shields.io/badge/shadcn-black?logo=shadcnui) ![sqlite](https://img.shields.io/badge/sqlite-black?logo=sqlite) ![fastapi](https://img.shields.io/badge/fastapi-black?logo=fastapi) ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-black?logo=sqlalchemy)
+## Experience
 
-**Description:** Educational tool to quickly encrypt and decrypt any content using different cryptographic algorithms and relevant cipher modes along with explanations.
+### Full Stack Intern @ Grug.io
+*Remote (Noida) | March 2026 - April 2026*
 
-### [NIDS](https://github.com/17anirudh/NIDS)
-**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas) ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-black?logo=scikitlearn) ![flask](https://img.shields.io/badge/flask-black?logo=flask)
+*React, Expo, Firebase Cloud Functions, Genkit, TypeScript, WebSocket*
+- Engineered unified synchronization logic reducing S2S voice jitter by **78%** through React Hooks and Genkit-integrated WebSocket communication
+- Automated business-critical workflows by extending tool-calling capabilities, improving operational UX efficiency by **76%**
+- Developed and deployed features using Expo (React), Firebase Cloud Functions, Genkit, and TypeScript
 
-**Description:** Educational tool to quickly encrypt and decrypt any content using different cryptographic algorithms and relevant cipher modes along with explanations.
+### Python Full Stack Intern @ AICTE
+*Visakhapatnam, Andhra Pradesh | May 2025 - October 2025* 
 
-### [ATS Score](https://github.com/17anirudh/ATS-Score)
-**Tech:** ![Python](https://img.shields.io/badge/python-black?logo=python) ![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas) ![Scikit Learn](https://img.shields.io/badge/scikit%20learn-black?logo=scikitlearn) ![flask](https://img.shields.io/badge/flask-black?logo=flask) ![Ollama](https://img.shields.io/badge/ollama-black?logo=ollama) ![Gemma](https://img.shields.io/badge/gemma3n:e2b-black?logo=googlegemini)
+*FastAPI, Next.js, SQLite, Pycryptodome, Python, TypeScript*
+- Architected high-performance cryptographic framework integrating pycryptodome with FastAPI for real-time symmetric key encryption analysis
+- Engineered intuitive interface abstracting complex security primitives, reducing technical experimentation barriers
+- Full-stack implementation with Next.js frontend and FastAPI backend
 
-**Description:** antardvara.ssl is a local and secure ATS analyzer, which takes in job description, qualification and your resume sends it to internal local gemma3n:e2b based custom model (NorthEye), which analyzes and gives you the result
+## Featured Projects
 
-### [URL Shortner](https://github.com/17anirudh/URL-Shortner)
-**Tech:** ![java](https://img.shields.io/badge/java-black?logo=openjdk) ![Python](https://img.shields.io/badge/python-black?logo=python) ![HTML5](https://img.shields.io/badge/HTML-black?logo=html5) ![CSS](https://img.shields.io/badge/css-black?logo=css) ![Springboot](https://img.shields.io/badge/springboot-black?logo=springboot) ![flask](https://img.shields.io/badge/flask-black?logo=flask) ![MySQL](https://img.shields.io/badge/MySQL-black?logo=mysql) ![docker](https://img.shields.io/badge/docker-black?logo=docker)
+### Vault (Ledger) – Financial Transaction Platform
+*Full-stack financial ledger with ACID-compliant transactions*
 
-**Description:** Cloud-native full Stack application which shortens any working website link, into a short link
+- Building a production-ready ledger platform with robust transaction processing
+- Event-driven workflows for transaction processing using RabbitMQ
+- JWT-based authentication and auditability through transactional persistence
+- Asynchronous messaging for reliable financial operations
 
-## 📊 GitHub Stats
+**Tech Stack:** Spring Boot | PostgreSQL | Next.js | RabbitMQ | Docker | GitHub
+[View on GitHub →](https://github.com/17anirudh)
 
-<div>
-  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=17anirudh&show_icons=true&theme=radical&hide_border=true)
+### Constraint-Driven Social App
+*Exploring product architecture's impact on healthier digital behavior*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&layout=compact&theme=radical&hide_border=true)
+- Cooperative unlock workflow requiring social interaction after usage limits
+- Reduced average daily usage by **40%** through thoughtful constraint design
+- No engagement-maximizing mechanics, focus on healthy digital habits
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=17anirudh&theme=great-gatsby)](https://git.io/streak-stats)
-</div>
+**Tech Stack:** ElysiaJS | Supabase | TanStack Router | TypeScript | Docker
+[View on GitHub →](https://github.com/17anirudh)
 
-## 🤝 Connect with Me
+### URL Shortener Service
+*High-performance URL shortening with caching and rate limiting*
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedala-anirudh)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://portfolio-next-five-ruby.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vedalaanirudh@gmail.com)
+- Base62 encoding with intelligent deduplication for identical URLs
+- In-memory caching for improved redirect performance
+- Request rate limiting to protect APIs from excessive traffic
 
-<div align="center">
+**Tech Stack:** Spring Boot | SQLite | Next.js | Bun.js
+[View on GitHub →](https://github.com/17anirudh)
 
-![Profile Views](https://komarev.com/ghpvc/?username=17anirudh&color=blueviolet&style=flat-square)
+### K-Explore & 10+ Additional Projects
+*Explore more projects on my GitHub profile*
 
-</div>
+I regularly build projects exploring different architectures, frameworks, and problems. Check out my GitHub for a complete list of recent work.
+
+[View All Projects →](https://github.com/17anirudh/?tab=repositories)
+
+## What I'm Looking For
+
+I'm actively seeking:
+- **Full-time backend/full-stack engineer** roles focusing on scalable systems
+- **Event-driven & microservices** architecture opportunities
+- **Cloud-native development** with AWS, Docker, and modern DevOps practices
+- **Collaborative teams** that value clean code, good design, and continuous learning
+
+## Let's Connect!
+
+- **Email:** [vedalaanirudh@gmail.com](mailto:vedalaanirudh@gmail.com)
+- **LinkedIn:** [linkedin.com/in/vedala-anirudh](https://linkedin.com/in/vedala-anirudh)
+- **Portfolio:** [17anirudh.vercel.app](https://17anirudh.vercel.app)
+- **GitHub:** [github.com/17anirudh](https://github.com/17anirudh)
+- **LeetCode:** [leetcode.com/u/17anirudh](https://leetcode.com/u/17anirudh)
+
+**⭐ Feel free to explore my repositories and reach out. Let's build something great together!**
