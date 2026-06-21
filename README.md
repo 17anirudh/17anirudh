@@ -1,11 +1,44 @@
+<img src="./assets/banner.jpg" alt="Banner" width="100%" height="200" style="object-cover: cover; object-cover: center" />
+
 # Vedala Anirudh, here!
 
-Software engineer with a strong focus on **backend development**, **database design**, and **event-driven architecture**. Recent graduate (B.Tech CSE) actively seeking full-time engineering opportunities to build scalable, performant systems.
+Software Engineer and 2026 B.Tech CSE graduate 
 
+I am based in Visakhapatnam possessing strong theoritical and practical knowledge of **backend development**, **database design**, and **event-driven architecture**.
+
+Thinking of learning SAP and AWS to 
+
+## Quick Stats
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px;">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=17anirudh&show=total_commits&show_icons=true&theme=radical&hide=stars,prs,contribs&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=17anirudh&show=total_commits&show_icons=true&theme=radical&hide=stars,prs,contribs&rank_icon=github"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=17anirudh&show=total_commits&show_icons=true&theme=radical&hide=stars,prs,contribs&rank_icon=github" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&theme=radical&langs_count=5&hide=html,css,vue,javascript&layout=donut-vertical"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&theme=radical&langs_count=5&hide=html,css,vue,javascript&layout=donut-vertical"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=17anirudh&theme=radical&langs_count=5&hide=html,css,vue,javascript&layout=donut-vertical" />
+</picture>
+
+</div>
 
 ## About Me
 
-I'm like architecting robust backend systems, designing efficient databases, and shipping features that matter. I thrive working across the full stack with emphasis on clean code, ACID compliance, and high-performance APIs. I have explored various technologies and frameworks, but I have a particular affinity for **Spring boot, Next.js and PostgresSQL**.
+I like to architect robust backend systems, design efficient databases, and ship features that matter. I thrive working across the full stack with emphasis on clean code, ACID compliance, and high-performance APIs. I have explored various technologies and frameworks, but I have a particular affinity for **Spring boot, Next.js and PostgresSQL**.
 
 - **Currently:** Actively seeking full-time backend/full-stack roles
 - **Focus:** Backend APIs, event-driven architectures, database design, cloud infrastructure
