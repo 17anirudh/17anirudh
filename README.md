@@ -1,4 +1,4 @@
-<img src="./assets/banner.jpg" alt="Banner" width="100%" height="200" style="object-cover: cover; object-cover: center" />
+<img src="./assets/banner.jpg" alt="Banner" width="100%" style="object-cover: cover; object-cover: center" />
 
 # Vedala Anirudh, here!
 
