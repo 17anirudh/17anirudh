@@ -6,8 +6,6 @@ Software Engineer and 2026 B.Tech CSE graduate
 
 I am based in Visakhapatnam possessing strong theoritical and practical knowledge of **backend development**, **database design**, and **event-driven architecture**.
 
-Thinking of learning SAP and AWS to 
-
 ## Quick Stats
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: center; gap: 10px;">
 <picture>
