@@ -1,5 +1,3 @@
-<img src="./assets/banner.jpg" alt="Banner" width="100%" style="object-cover: cover; object-cover: center" />
-
 # Vedala Anirudh, here!
 
 Software Engineer and 2026 B.Tech CSE graduate 
